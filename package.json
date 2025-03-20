@@ -2,15 +2,16 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://soumyabrata-ghosh.vercel.app",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.4.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "latest",
     "web-vitals": "^4.2.4"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.0.14",
+    "@tailwindcss/forms": "^0.5.3",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
     "postcss-loader": "^8.1.1",
